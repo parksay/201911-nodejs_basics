@@ -1,0 +1,1 @@
+this is a sample text file for practice file input and output
